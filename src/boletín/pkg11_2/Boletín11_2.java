@@ -6,7 +6,6 @@
 package boletín.pkg11_2;
 
 /**
- *
  * @author dam1
  */
 public class Boletín11_2 {
@@ -15,8 +14,8 @@ public class Boletín11_2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         NumAleatorio obx = new NumAleatorio();
-         obx.amosarNumAle();
+        NumAleatorio obx = new NumAleatorio();
+        obx.amosarNumAle();
     }
-    
+
 }
